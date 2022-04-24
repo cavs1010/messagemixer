@@ -1,5 +1,5 @@
 # 🖨 Message mixer - javascript modules using node<br>
-[Objective](#objective_h) | [languajes](#languajes_h) | [Status](#status_h) | [Acknowledge](#acknowledge_h) 
+[Objective](#objective_h) | [languages](#languages_h) | [Status](#status_h) | [Acknowledge](#acknowledge_h) 
 
 <p>Cypher and decypher a message in javascript</p><br>
 
@@ -7,7 +7,7 @@
 <p>Implement modules in javascript using node</p>
 
 
-<h2>Languajes and tools<a name="languajes_h"></a></h2>
+<h2>Languages and tools<a name="languajes_h"></a></h2>
 <p></p>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
